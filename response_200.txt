@@ -1,0 +1,356 @@
+Test started at 2021-10-10 02:53:20.194839
+
+
+ link status is 200 2021-10-10 02:53:23.073933
+https://trk.mail.ru/c/ds8xq6?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.092823
+https://trk.mail.ru/c/y7s979?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.104554
+https://trk.mail.ru/c/b1dlh9?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.118509
+https://trk.mail.ru/c/koydy6?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.142405
+https://trk.mail.ru/c/csh4e6?mt_campaign=mainvkmail&mt_adset=&mt_network=1&mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.177241
+https://trk.mail.ru/c/pllim0?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.204059
+https://trk.mail.ru/c/k9iu14?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.218719
+https://trk.mail.ru/c/curxh8?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.236693
+https://trk.mail.ru/c/h0c140?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.244628
+https://trk.mail.ru/c/pqaft6?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.287721
+https://trk.mail.ru/c/efn5v4?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.340350
+https://trk.mail.ru/c/me1m35?mt_sub1=mail.ru
+
+ link status is 200 2021-10-10 02:53:23.361492
+https://account.mail.ru/signup?from=navi&lang=ru_RU&siteid=169&app_id_mytracker=58519
+
+ link status is 200 2021-10-10 02:53:23.374617
+https://mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.396517
+https://e.mail.ru/login?from=main&app_id_mytracker=58519
+
+ link status is 200 2021-10-10 02:53:23.419360
+https://calls.mail.ru/?fm=1
+
+ link status is 200 2021-10-10 02:53:23.426476
+https://cloud.mail.ru/?utm_source=mainpage_promo&utm_medium=mainpage_promo&utm_campaign=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9/
+
+ link status is 200 2021-10-10 02:53:23.457399
+https://promo.calendar.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.466054
+https://account.mail.ru/recovery
+
+ link status is 200 2021-10-10 02:53:23.473051
+https://account.mail.ru/signup?from=main&rf=auth.mail.ru&app_id_mytracker=58519
+
+ link status is 200 2021-10-10 02:53:23.481317
+https://mail.ru/region?page=https://mail.ru/re
+
+ link status is 200 2021-10-10 02:53:23.486684
+https://pogoda.mail.ru/prognoz/moskva/
+
+ link status is 200 2021-10-10 02:53:23.491752
+https://pogoda.mail.ru/prognoz/moskva/
+
+ link status is 200 2021-10-10 02:53:23.499403
+https://pogoda.mail.ru/prognoz/moskva/
+
+ link status is 200 2021-10-10 02:53:23.504785
+https://news.mail.ru/currency/charcode/USD/
+
+ link status is 200 2021-10-10 02:53:23.510642
+https://news.mail.ru/currency/charcode/EUR/
+
+ link status is 200 2021-10-10 02:53:23.517434
+https://news.mail.ru/currency/lme/OIL2/
+
+ link status is 200 2021-10-10 02:53:23.523172
+https://horo.mail.ru/prediction/today/
+
+ link status is 200 2021-10-10 02:53:23.529653
+https://store.my.games/play/mini/?_1ld=3149785_2015104_store77
+
+ link status is 200 2021-10-10 02:53:23.536232
+https://store.my.games/app/5480?_1ld=3223095_2016159&_1lp=1&mt_link_id=c2k8m5
+
+ link status is 200 2021-10-10 02:53:23.549264
+https://store.my.games/app/3800?_1ld=3223097_2013195&_1lp=1&mt_link_id=mgxj92
+
+ link status is 200 2021-10-10 02:53:23.556578
+https://store.my.games/app/3954?_1ld=3223098_2013171&_1lp=1&mt_link_id=qxk8r9
+
+ link status is 200 2021-10-10 02:53:23.565966
+https://news.mail.ru/coronavirus/stat/
+
+ link status is 200 2021-10-10 02:53:23.573031
+https://trk.mail.ru/c/uxxv56?mt_sub1=mail.ru&mt_sub2=cross_promo&mt_sub3=VKJOB_b1&mt_sub4=widget_first_position
+
+ link status is 200 2021-10-10 02:53:23.581324
+https://trk.mail.ru/c/u3mf89?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=81468863&mt_sub4=824010
+
+ link status is 200 2021-10-10 02:53:23.588384
+https://trk.mail.ru/c/j7o0r9?mt_sub1=mail.ru&mt_sub2=widget&mt_sub3=main_desktop&mt_sub4=824011
+
+ link status is 200 2021-10-10 02:53:23.594685
+https://trk.mail.ru/c/z292c1?mt_sub1=mail.ru&mt_campaign=newpromomail&mt_sub2=navimail
+
+ link status is 200 2021-10-10 02:53:23.600920
+https://trk.mail.ru/c/y5n060?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=78128559&mt_sub4=824018
+
+ link status is 200 2021-10-10 02:53:23.608526
+https://trk.mail.ru/c/ozn1v4?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=78433929&mt_sub4=824014
+
+ link status is 200 2021-10-10 02:53:23.618697
+https://trk.mail.ru/c/veuo84?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=84217929&mt_sub4=824015&mt_sub5=v3
+
+ link status is 200 2021-10-10 02:53:23.644822
+https://trk.mail.ru/c/swuuo6?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=78436442&mt_sub4=852653
+
+ link status is 200 2021-10-10 02:53:23.673189
+https://s.click.aliexpress.com/e/cSNjGNAJ?cn=169_38603995_86056278
+
+ link status is 200 2021-10-10 02:53:23.687288
+https://trk.mail.ru/c/dxtdy6?mt_sub1=mail.ru&mt_sub2=cross_promo&mt_sub3=banner_1&mt_sub4=824012
+
+ link status is 200 2021-10-10 02:53:23.705848
+https://trk.mail.ru/c/e5kn46?mt_sub1=mail.ru&mt_sub2=cross_promo&mt_sub3=banner_1&mt_sub4=824016
+
+ link status is 200 2021-10-10 02:53:23.716910
+https://trk.mail.ru/c/tit7z5?mt_sub1=mail.ru&mt_sub2=0&mt_sub3=78128581&mt_sub4=824013
+
+ link status is 200 2021-10-10 02:53:23.727809
+https://help.mail.ru/legal/terms/common/privacy
+
+ link status is 200 2021-10-10 02:53:23.740590
+https://corp.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.750163
+http://r.mail.ru/clb657253/go.mail.ru/?fm=1
+
+ link status is 200 2021-10-10 02:53:23.756927
+http://r.mail.ru/clb52423656/go.mail.ru/search_social?frm=main&fr=mailru&fm=1
+
+ link status is 200 2021-10-10 02:53:23.763651
+http://r.mail.ru/clb657254/go.mail.ru/search_images?fr=mailru&fm=1
+
+ link status is 200 2021-10-10 02:53:23.775887
+http://r.mail.ru/clb657255/go.mail.ru/search_video?fr=mailru&fm=1
+
+ link status is 200 2021-10-10 02:53:23.785033
+http://r.mail.ru/clb657259/otvet.mail.ru/?fr=mailru&fm=1
+
+ link status is 200 2021-10-10 02:53:23.799461
+https://news.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.804967
+http://news.mail.ru/inregions/moscow/90/
+
+ link status is 200 2021-10-10 02:53:23.818018
+https://sportmail.ru/
+
+ link status is 200 2021-10-10 02:53:23.823673
+https://lady.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.832007
+https://auto.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.838547
+https://kino.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.849562
+https://hi-tech.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.857830
+https://games.mail.ru/pc/
+
+ link status is 200 2021-10-10 02:53:23.870656
+https://deti.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.877046
+https://health.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.882392
+https://dom.mail.ru/?fromprefix=1
+
+ link status is 200 2021-10-10 02:53:23.888090
+https://pets.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.897585
+https://news.mail.ru/politics/48280870/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.903646
+https://news.mail.ru/incident/48281866/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.909043
+https://sportmail.ru/news/football-worldcup/48279257/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.917401
+https://sportmail.ru/news/olympics/48281847/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.925478
+https://sportmail.ru/news/football-national/48282646/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.937812
+https://news.mail.ru/politics/48281897/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.943164
+https://news.mail.ru/society/48280497/?frommail=10
+
+ link status is 200 2021-10-10 02:53:23.949766
+https://news.mail.ru/society/48279977/?frommail=10
+
+ link status is 200 2021-10-10 02:53:23.955215
+https://news.mail.ru/society/43599474/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.960370
+https://news.mail.ru/politics/48283021/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.966911
+https://sportmail.ru/news/figure-skating/48281498/?frommail=1
+
+ link status is 200 2021-10-10 02:53:23.974049
+https://auto.mail.ru/
+
+ link status is 200 2021-10-10 02:53:23.983573
+https://auto.mail.ru/article/82743-iz-za_chego_podorozhala_pochti_ne_izmenivshayasya_vneshne_kia_k5/
+
+ link status is 200 2021-10-10 02:53:23.989558
+https://sportmail.ru/
+
+ link status is 200 2021-10-10 02:53:23.997534
+https://sportmail.ru/news/football-rus-premier/48264049/?frommail=1
+
+ link status is 200 2021-10-10 02:53:24.011188
+https://health.mail.ru/
+
+ link status is 200 2021-10-10 02:53:24.021868
+https://health.mail.ru/news/1-koronavirus_otkuda_berutsya_kovidnye_paltsy/
+
+ link status is 200 2021-10-10 02:53:24.029353
+https://lady.mail.ru/
+
+ link status is 200 2021-10-10 02:53:24.037270
+https://lady.mail.ru/article/523586-leonid-jakubovich-prokommentiroval-sluhi-o-svoem-romane-s-kollegoj-po-shou-pole-chudes/
+
+ link status is 200 2021-10-10 02:53:24.047575
+https://r.mail.ru/redir/AAC_8QF6zEfdZAs4J1OhjdIpmixX0qQFNFIZbx11bzxUBVdZWOeHaG9JOqzhRvJtHlWsaTZoO8nRJ3LDyLxdqWHJaNUk2Zqx675x1R2xW5j8Flyu4HDar7Bjij0_uVUMHyyNJ0-Ui1lnjfzvZB4kvk16MniXMy4z40_MFf3V6Q6t4MiQLKvrOTxXAAAA0gW_9GvwtkL-0le9NU2b8L_WzacAphukKseonO3yyUMjGADED-29RSU0YgsXRjsFTRHHkwhMDFcN0Si1qxyxN29t05ike_Bi78_wX38w71o2BmHUd2cH44-3UVLmOh8K
+
+ link status is 200 2021-10-10 02:53:24.056598
+https://r.mail.ru/redir/AAC_8QEcKCMa6qDtQthrufwfiW9ehGRe1P6jEBAGogCGxHti5ug_GVx3NRwY9pmXUIlLgqixKSJWuWaEYBPfidCLVH6yu0WZOjzTsfHTDmStZ0CF2iow55BvrZqbDodFaeSl8E9dCM7RMSjhlXOLxDmkZlbsgjHRiKAsbj1ntQ-8FlnhuWoPUB8bAAAAkQkep5pT0f_eDRtOQUrRuAjEvBvp1bg0wSKqF4M125s
+
+ link status is 200 2021-10-10 02:53:24.078317
+https://pulse.mail.ru/
+
+ link status is 200 2021-10-10 02:53:24.086808
+https://pulse.mail.ru/article/rasskazyvaem-o-tom-kak-ekonomno-implantirovat-vse-zuby-na-chelyust-ili-obe-7352811380774809290-9214450948959030747/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.096116
+https://pulse.mail.ru/article/rasskazyvaem-o-tom-kak-ekonomno-implantirovat-vse-zuby-na-chelyust-ili-obe-7352811380774809290-9214450948959030747/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.104858
+https://pulse.mail.ru/article/rasskazyvaem-o-tom-kak-ekonomno-implantirovat-vse-zuby-na-chelyust-ili-obe-7352811380774809290-9214450948959030747/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.117668
+https://pulse.mail.ru/article/investirovat-v-logistiku-i-dognat-ozon-tigran-hudaverdyan-o-razvitii-yandeks-marketa-konkurentah-i-planah-na-rovery-1107956520278803152-6394552146637153468/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.125535
+https://pulse.mail.ru/article/investirovat-v-logistiku-i-dognat-ozon-tigran-hudaverdyan-o-razvitii-yandeks-marketa-konkurentah-i-planah-na-rovery-1107956520278803152-6394552146637153468/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.132072
+https://pulse.mail.ru/source/1107956520278803152
+
+ link status is 200 2021-10-10 02:53:24.147394
+https://pulse.mail.ru/article/investirovat-v-logistiku-i-dognat-ozon-tigran-hudaverdyan-o-razvitii-yandeks-marketa-konkurentah-i-planah-na-rovery-1107956520278803152-6394552146637153468/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru#comments
+
+ link status is 200 2021-10-10 02:53:24.155292
+https://pulse.mail.ru/article/v-rossii-zafiksirovan-ocherednoj-rekord-smertnosti-ot-covid-19-9206026869246829957-3366483248014062398/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.163452
+https://pulse.mail.ru/article/v-rossii-zafiksirovan-ocherednoj-rekord-smertnosti-ot-covid-19-9206026869246829957-3366483248014062398/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.172507
+https://pulse.mail.ru/source/9206026869246829957
+
+ link status is 200 2021-10-10 02:53:24.188583
+https://pulse.mail.ru/article/v-rossii-zafiksirovan-ocherednoj-rekord-smertnosti-ot-covid-19-9206026869246829957-3366483248014062398/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru#comments
+
+ link status is 200 2021-10-10 02:53:24.200978
+https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-bolnitsakh-lenoblasti-poyavilos-oborudovanie-dlya-lecheniya-sosudistykh-bolezney?category=zdravookhranenie&utm_content=Autotargeting&utm_medium=CPC&utm_source=MRG_Pulse&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru
+
+ link status is 200 2021-10-10 02:53:24.209795
+https://xn--80aapampemcchfmo7a3c9ehj.xn--p1ai/news/v-bolnitsakh-lenoblasti-poyavilos-oborudovanie-dlya-lecheniya-sosudistykh-bolezney?category=zdravookhranenie&utm_content=Autotargeting&utm_medium=CPC&utm_source=MRG_Pulse&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru
+
+ link status is 200 2021-10-10 02:53:24.215843
+https://pulse.mail.ru/source/6938800338737803133
+
+ link status is 200 2021-10-10 02:53:24.233963
+https://pulse.mail.ru/article/samyj-zagadochnyj-tankist-as-iz-ss-unichtozhivshij-160-tankov-pochemu-my-nichego-pro-nego-ne-znaem-4007123595271514297-3198135568674913967/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.242589
+https://pulse.mail.ru/article/samyj-zagadochnyj-tankist-as-iz-ss-unichtozhivshij-160-tankov-pochemu-my-nichego-pro-nego-ne-znaem-4007123595271514297-3198135568674913967/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.250780
+https://pulse.mail.ru/protanki
+
+ link status is 200 2021-10-10 02:53:24.316899
+https://pulse.mail.ru/article/samyj-zagadochnyj-tankist-as-iz-ss-unichtozhivshij-160-tankov-pochemu-my-nichego-pro-nego-ne-znaem-4007123595271514297-3198135568674913967/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru#comments
+
+ link status is 200 2021-10-10 02:53:24.324055
+https://pulse.mail.ru/article/tom-hardi-otvetil-poluchit-li-venom-2-prodolzhenie-5970411270331424918-4249402940975030374/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.329586
+https://pulse.mail.ru/article/tom-hardi-otvetil-poluchit-li-venom-2-prodolzhenie-5970411270331424918-4249402940975030374/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.335256
+https://pulse.mail.ru/soyuz
+
+ link status is 200 2021-10-10 02:53:24.346882
+https://pulse.mail.ru/article/tom-hardi-otvetil-poluchit-li-venom-2-prodolzhenie-5970411270331424918-4249402940975030374/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru#comments
+
+ link status is 200 2021-10-10 02:53:24.352960
+https://pulse.mail.ru/article/kak-pravilno-spat-chtoby-vysypatsya-i-chuvstvovat-sebya-bodro-985315150066397629-149432103555577206/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.360035
+https://pulse.mail.ru/article/kak-pravilno-spat-chtoby-vysypatsya-i-chuvstvovat-sebya-bodro-985315150066397629-149432103555577206/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.366614
+https://pulse.mail.ru/article/kak-pravilno-spat-chtoby-vysypatsya-i-chuvstvovat-sebya-bodro-985315150066397629-149432103555577206/?reco_session_id=194e0261622b71&utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.383144
+https://sport24.ru/news/cybersport/2021-10-07-rossiyanku-zablokirovali-na-populyarnom-sayte-iz-za-otkrovennoy-fotografii-ona-ne-vidit-v-ney-nichego-neprilichnogo?utm_campaign=arbitr-pulse&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.390616
+https://sport24.ru/news/cybersport/2021-10-07-rossiyanku-zablokirovali-na-populyarnom-sayte-iz-za-otkrovennoy-fotografii-ona-ne-vidit-v-ney-nichego-neprilichnogo?utm_campaign=arbitr-pulse&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.399828
+https://pulse.mail.ru/source/8867997186106240604
+
+ link status is 200 2021-10-10 02:53:24.412450
+https://pulse.mail.ru/article/3-okruga-moskvy-s-naibolshim-rostom-cen-na-kvartiry-v-novostrojkah-za-3-kvartal-2021-goda-3469949812465600179-47595033084346208/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.420465
+https://pulse.mail.ru/article/3-okruga-moskvy-s-naibolshim-rostom-cen-na-kvartiry-v-novostrojkah-za-3-kvartal-2021-goda-3469949812465600179-47595033084346208/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru
+
+ link status is 200 2021-10-10 02:53:24.427423
+https://pulse.mail.ru/mace
+
+ link status is 200 2021-10-10 02:53:24.442786
+https://pulse.mail.ru/article/3-okruga-moskvy-s-naibolshim-rostom-cen-na-kvartiry-v-novostrojkah-za-3-kvartal-2021-goda-3469949812465600179-47595033084346208/?utm_content=lenta_main_mail_ru&utm_partner_id=399&utm_campaign=main&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=pulse_mail_ru#comments
